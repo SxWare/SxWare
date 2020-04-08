@@ -1,2 +1,0 @@
-# SxWare
-Sxware Exploit
